@@ -1,0 +1,927 @@
+{
+  "download_url": "https://raw.githubusercontent.com/BearHero520/UFI-TOOLS-PLUGINS/2b31582a8a075032ac13b51565c1a2dafb04e38d/ufi-tools-plugins",
+  "res": {
+    "code": 200,
+    "message": "success",
+    "data": {
+      "content": [
+        {
+          "name": "(可多卡)字母卡简洁进度条版.txt",
+          "size": 3907,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "34964b60ee717a77dd9bcfc667a1e203",
+            "sha256": "f36c8d307c46ed77272b9f1a210266b26722f8d618f268165885c8ba122d8641"
+          },
+          "type": 0
+        },
+        {
+          "name": "(可多卡)小鲸卡简洁进度条版.txt",
+          "size": 3317,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "c6805fd16dce9c1815bcbbdc900b7e86",
+            "sha256": "5c701656d5cd34cf8dc0ba3e0a695754113e292bfbd6805505f7ea63d3f43f6f"
+          },
+          "type": 0
+        },
+        {
+          "name": "(可多卡)新小鲸后台卡片简洁进度条版.txt",
+          "size": 4994,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "468dab420e69244a0c6a1548bf10224a",
+            "sha256": "0dac01db396bf27f7d2c5cf32a3213afc7dac694e56567259bcb8ecfb927b5af"
+          },
+          "type": 0
+        },
+        {
+          "name": "(本地代理版)字母哥流量卡片.txt",
+          "size": 5676,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "844989a0712ec8782bda6cd50c28e4ac",
+            "sha256": "2b8c8cf4a6a7901e36fad8ba6ce5958360baf419f41c75c4783d4e46371d9193"
+          },
+          "type": 0
+        },
+        {
+          "name": "3M一键解控.js",
+          "size": 4806,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "5a15b409af503e5bf3e7579426cd9871",
+            "sha256": "87aaea02094126958c79c7f45c6e6aab45f143d282fad1fcd39012073f283fc7"
+          },
+          "type": 0
+        },
+        {
+          "name": "ADGuardHome插件1.2.js",
+          "size": 6825,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "15542cb9792bc67e04d132119a054b87",
+            "sha256": "1cdab137ed1a953a1e33da9f54716b79365c1b6c7872993ea9901a7ebd63a18b"
+          },
+          "type": 0
+        },
+        {
+          "name": "CPU压测开关(需要启用高级功能).txt",
+          "size": 1525,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "33e3fecd8148c32bda30c8d0898370c3",
+            "sha256": "d5645c88098742c5e3ad3207eab6437f41d48a9b5204fc1fd31ed38347703f70"
+          },
+          "type": 0
+        },
+        {
+          "name": "CPU性能控制面板2.0.js",
+          "size": 23654,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "64034b854c5379fe52e250f8081737d4",
+            "sha256": "8047b4133a22bfb6a01b3d763a6f3370b71e87073b5e5544ab524dacde3b1a49"
+          },
+          "type": 0
+        },
+        {
+          "name": "CloudFlare_Tunnel内网穿透插件.js",
+          "size": 29268,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "062e0b57f20931acb35da8fd6252242f",
+            "sha256": "c720cecc544145e11a9078bb9d58778bf770858fc9e32153f2361ec9cf3695e5"
+          },
+          "type": 0
+        },
+        {
+          "name": "DDNS-GO插件.js",
+          "size": 2997,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "9a86e4ae75752bbf58c4e31629c332e9",
+            "sha256": "f532b0d0f29bee591e2c197d483d43f52aa27c7f0afe0413e60ef1941f4b0bfc"
+          },
+          "type": 0
+        },
+        {
+          "name": "DDNS-GO美化版.js",
+          "size": 12182,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "29b4ae9bc9af5aefdbdd1075eb1e52c4",
+            "sha256": "b3b3e56393c62260338eaa66381ae619d4c891674fad434a2fdedd9578fdba3e"
+          },
+          "type": 0
+        },
+        {
+          "name": "Lucky插件.js",
+          "size": 2785,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "f6e446d8f2d75eda438056803072ec85",
+            "sha256": "fee5bcf2897f05881292ad2bb47df913c105d15db5a8bd472289dae2b41e8b47"
+          },
+          "type": 0
+        },
+        {
+          "name": "Lucky插件1.0美化版.js",
+          "size": 15028,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "4f7db8ea5e04fad11371416db543f132",
+            "sha256": "8245ede3136bbde35982df01638d252bd24c88b648e9c23d35b8f5f4028c02cb"
+          },
+          "type": 0
+        },
+        {
+          "name": "OpenList插件(by minikano).js",
+          "size": 14056,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "250d23e625470196eb52c6e1183826ad",
+            "sha256": "9daec451b374ed84633e23fe9b858853d96a02cb4f40dcd99b027e93e55ddb12"
+          },
+          "type": 0
+        },
+        {
+          "name": "PING百度(需要启用高级功能).txt",
+          "size": 552,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "a231b92edb6dd25d0360c1a0ad487342",
+            "sha256": "cdead2852d1327c40f3bed2e4760a070a41634cf8ad644a31e9ad0f114827a27"
+          },
+          "type": 0
+        },
+        {
+          "name": "PING百度美化版(需要启用高级功能).txt",
+          "size": 1504,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "124c9938978f278eced0b72ff0a973d7",
+            "sha256": "c73e70e693b685b306bbbcf316af5b40a3054e5b7bd9670149a5e5b676c054de"
+          },
+          "type": 0
+        },
+        {
+          "name": "RGB!!!.txt",
+          "size": 392,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "9bfc591f3c8369b9c7294c87e5061cc4",
+            "sha256": "e3cab4736cd37bafb1cc8b970dab48d563469231bc598cf6c63bacdae5e19cae"
+          },
+          "type": 0
+        },
+        {
+          "name": "U30 U20 F50 温控指示灯1.4.js",
+          "size": 8421,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "68f58393c403a60dd5a731aafb43242d",
+            "sha256": "e00b172a570f02528ecf66e42a87691c98d622fdc66219da38258700e0fd1ad8"
+          },
+          "type": 0
+        },
+        {
+          "name": "U30全球频段列表补齐1.1.js",
+          "size": 2190,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "7ec552b1d177e8cba4a2efbbfe26baf0",
+            "sha256": "b7d7fb83838ae37f7abba94cc79129ed68e3010191afefed04b29f76839f8424"
+          },
+          "type": 0
+        },
+        {
+          "name": "V50温控指示灯1.5.js",
+          "size": 8724,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "39876a97f1313190b5e9d69b6da0c2f9",
+            "sha256": "9cb54980487bc1734d55593d702f95db9eb8fd5d797881348592d422b15d4d81"
+          },
+          "type": 0
+        },
+        {
+          "name": "aria2插件.js",
+          "size": 5448,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "a39e239f6dc87abd4ce24ff56a2f09ea",
+            "sha256": "0976db96425daf8d3f83454fdb7fb2b616cdf5ce38eabf8cfddfe48e96a8a20c"
+          },
+          "type": 0
+        },
+        {
+          "name": "chrome高度修复.txt",
+          "size": 80,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "3156c16a9dbf33fd55a5914db70007d9",
+            "sha256": "7fde4b55cce10856679fcebacb1e43581c4e9d794a56b16db7c212e4514670b8"
+          },
+          "type": 0
+        },
+        {
+          "name": "cpu高级调节器1.5需要开启高级功能).txt",
+          "size": 23254,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "155fa2572147326e485fc269a10b2654",
+            "sha256": "bc0a538567cfc6d7a97f34700ece7491bb9ca0033671270efd50b8c1bf91fc6f"
+          },
+          "type": 0
+        },
+        {
+          "name": "frpc内网穿透插件1.1.js",
+          "size": 10283,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "379fcca8bc444839f2272a11244d951b",
+            "sha256": "ee1d48ca5311c2bac3a020a01793c964f0c39812ef549b225fdf994caeb4efe9"
+          },
+          "type": 0
+        },
+        {
+          "name": "frpc插件.js",
+          "size": 10206,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "40010d2b8db23b2b6aa56293e911cef0",
+            "sha256": "e2a2bcbf6802b0fa34c27824d6cfaa4aef6b811120f18b5c7038d6e6d836fee9"
+          },
+          "type": 0
+        },
+        {
+          "name": "npc内网穿透客户端插件1.1.js",
+          "size": 10278,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "6ad6b1377a82324d3123360afafd0629",
+            "sha256": "19e2310f74f1020022484be811575904e543fd9a48ff229b220c4ec4da3162a5"
+          },
+          "type": 0
+        },
+        {
+          "name": "openlist面版.txt",
+          "size": 38577,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "8c57f9142e4ae2f8ec4f1555f10aa057",
+            "sha256": "c67d77654ae87d8402a1348766aa7c39807790a355e7b6468ebbd62203d2f104"
+          },
+          "type": 0
+        },
+        {
+          "name": "swap扩容.txt",
+          "size": 8605,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "c7e94c9cc537f1ec9ce2f318953013da",
+            "sha256": "25d682644c903e425b7edd3b95c52826f5549c59ea59a72010619591a14f44dd"
+          },
+          "type": 0
+        },
+        {
+          "name": "下载当前分区的BOOT(需要启用高级功能).txt",
+          "size": 1559,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "1d3bc1ba66c99db024e3f57bf2940ca4",
+            "sha256": "a3c93d46228347bb65463de8e341d50247347cbd908f996a57dd970788bf7cf7"
+          },
+          "type": 0
+        },
+        {
+          "name": "主页看板娘(PC可见).txt",
+          "size": 1581,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "6b006a7ffdb6f4fd170fb979812d8fbe",
+            "sha256": "9f8ce6569a6867cffcc5d2456ba605474520862aed81f5e402db9fca005a38d5"
+          },
+          "type": 0
+        },
+        {
+          "name": "云上流量卡片（需要3.0以上版本）.js",
+          "size": 5483,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "472becbb740675abdd9ac80d0b300e08",
+            "sha256": "a024d77f66d000ad70692b3738eaf285cde0d3ba4d8ca7a84f63d6baaa7f100e"
+          },
+          "type": 0
+        },
+        {
+          "name": "充电控制器.txt",
+          "size": 14736,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "facabfdaa3c63c24f36d6e70dc7cbba1",
+            "sha256": "3dd9027bcfebb1049e9ad3140d0e6716720b6c2a2952f1effda66a468b8d9314"
+          },
+          "type": 0
+        },
+        {
+          "name": "减弱页面效果.txt",
+          "size": 187,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "5983f06c7208783d4f81de2c1ad9044b",
+            "sha256": "eea1eb1d314915a669d047a3d0d98d30af6b085d29736d0c13197256aded81dc"
+          },
+          "type": 0
+        },
+        {
+          "name": "取消浏览器兼容提示.txt",
+          "size": 72,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "7c014aab214f92a20e057d6b12467d68",
+            "sha256": "f08dc427fa0cd16026f48abdd642014a3183e264a4fd70d90015cf847360b0e7"
+          },
+          "type": 0
+        },
+        {
+          "name": "唯简网页监控面板(需要购买支持的唯简电流表才能使用_支持K2,U3,U3L,A2,A2L,C4).txt",
+          "size": 14215,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "21c46044807b33ce0bb2e4860d248353",
+            "sha256": "dd145c7637327c5c75b2f1877db0d57f1031f931f15e71d316bdedae2ccd5d72"
+          },
+          "type": 0
+        },
+        {
+          "name": "外接网口网速优化插件.txt",
+          "size": 4778,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "82e653dee2320ac30728751460bcb1a9",
+            "sha256": "e05237c825c0e17ced8b0abbed5618118ea66a53369c8ecd5d19bab16885acf0"
+          },
+          "type": 0
+        },
+        {
+          "name": "字母哥流量卡片（需要3.1.5以上版本）.js",
+          "size": 7996,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "75661531e062ae0c689d909aadc3d834",
+            "sha256": "4c683f1445bd2d0ad631728c54bb557ec3b96dd832dc3c44ca9d2ae7589fa4a4"
+          },
+          "type": 0
+        },
+        {
+          "name": "定时网络切换.txt",
+          "size": 31108,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "f1b31bfa05818fd66ee006b359872d0f",
+            "sha256": "6d0fb031acc9e4a346e69ab1b5397c9849ab724e991ede5626301a627c23196c"
+          },
+          "type": 0
+        },
+        {
+          "name": "小鲸卡片（需要3.0以上版本）.txt",
+          "size": 1579,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "496e61ef83e226483ee9f91ac8b9f66d",
+            "sha256": "17e2d88a7d928ddcded2b63cdf5de75c528ef820f6a089231e78ac730137ccfd"
+          },
+          "type": 0
+        },
+        {
+          "name": "小鲸流量卡片（需要3.0以上版本）.js",
+          "size": 5483,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "f4096f1034511790c2fd2ba5f395a85a",
+            "sha256": "d75f281deba854603b9889b9e6e29bebce1f3d9f6879dbec9ed273b557fe1a65"
+          },
+          "type": 0
+        },
+        {
+          "name": "强力查询IMEI_by_minikano.txt",
+          "size": 4409,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "f1e9d84368f643f6f87db9791f424713",
+            "sha256": "36e1d982cb4acb56bb9c057cdb8f56abebf5bf685a9b59f5eef128a66f0bf822"
+          },
+          "type": 0
+        },
+        {
+          "name": "强力查询所有IMEI.txt",
+          "size": 3139,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "1522666810b2d9724719455c0acf2c77",
+            "sha256": "ee4a1c243e8f7370520c6836ef96ef2af7c5cb73208315338425829f6ef67d91"
+          },
+          "type": 0
+        },
+        {
+          "name": "恢复系统更新(需要启用高级功能).txt",
+          "size": 1240,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "55906f80c60c725815915f1841d0ef37",
+            "sha256": "b755854c23b99a3de95c64372f5c9fd0ae5d97e438f9ee5ae8420d2ee217e968"
+          },
+          "type": 0
+        },
+        {
+          "name": "扩展插件分类（该插件需要放在最顶部).txt",
+          "size": 1600,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "03f9de5798997de8842b7920487115f6",
+            "sha256": "68d1df56a7f8476b89722ba48d3876240b0c318bc6ff182748bf65429b74c66c"
+          },
+          "type": 0
+        },
+        {
+          "name": "扩展插件分类（请顶置该插件).txt",
+          "size": 1680,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "5253a61991c4a309b9032e74a251f1a4",
+            "sha256": "388b2751dada47b2f3b93d9da9f112ae13752a9660a734b89d2848a71f1c2961"
+          },
+          "type": 0
+        },
+        {
+          "name": "插件API请求编写注意事项.txt",
+          "size": 1599,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "e2e2beba149f4fc19e754ef9950ab01e",
+            "sha256": "462703a6cedc398be92853be61809ca9a139ce50dc1eaf163ccac5f6d851ddde"
+          },
+          "type": 0
+        },
+        {
+          "name": "插拔USB自动开关WIFI插件(需要开启高级模式).txt",
+          "size": 3052,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "689993f793e76d8cc1d1ffff953d32ac",
+            "sha256": "c57bb96c2b56448884232c3c1b22a7aec226c92fffbdb2bfc25089319fcbb261"
+          },
+          "type": 0
+        },
+        {
+          "name": "新小鲸卡片(简洁版,需要3.3.9_fix版本以上).txt",
+          "size": 3578,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "3e5fb1105ec4102d6fec225abb4a0c86",
+            "sha256": "e90f7bd53618af4b4461b60426d91a50b3c7afdb4f3b7274ff61dc92b400a984"
+          },
+          "type": 0
+        },
+        {
+          "name": "新小鲸后台流量卡片(需要3.3.9_fix版本以上).txt",
+          "size": 8111,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "46f40477c54944ee31fa3d0f8d028d26",
+            "sha256": "9f08c209c9689ff4ebb5dee79bc237d2ea828028958198d0d48ceaa9e24cb79d"
+          },
+          "type": 0
+        },
+        {
+          "name": "星狐物联流量卡片（需要3.1.5以上版本）.js",
+          "size": 8123,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "ff519cf8ce8ad22e923ef9e591324cd5",
+            "sha256": "6ae6abbd52bda3a013d5459c05c5b9e47facbd2c409eba6a219b5b52b2d7b3af"
+          },
+          "type": 0
+        },
+        {
+          "name": "智能WiFi切换插件.txt",
+          "size": 3028,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "c2ad675ec572125ce583d4600ca5b9fa",
+            "sha256": "0ac521a620d89bd1e4a104e6211b552de3412bacb3bdf0c48f05952d85534417"
+          },
+          "type": 0
+        },
+        {
+          "name": "更改ufi-tools为80端口插件1.1(需要高级功能).js",
+          "size": 4724,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "dafced720cdf12daa1d8e1cf18cac89d",
+            "sha256": "2dac22a82f84721411efdea05437a2be6bcd7d9c6434e7814b6669c2ed50a1be"
+          },
+          "type": 0
+        },
+        {
+          "name": "林夕的插件集.txt",
+          "size": 10505,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "bd2b72aa2398756bfed1edc1afc818db",
+            "sha256": "571ee0929076520b735540c5e932fb690cde2713be7e236884de703799159f27"
+          },
+          "type": 0
+        },
+        {
+          "name": "查看当前系统AB区(需要启用高级功能) .txt",
+          "size": 589,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "dbcd053d51ebc6604911e61ef9f9c7f3",
+            "sha256": "b86b50749c75a9448eb28e69903d8afa3b36cf4b5fc403e141cd0fd490fae74e"
+          },
+          "type": 0
+        },
+        {
+          "name": "核心开关.txt",
+          "size": 1897,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "6d5e4e8547cb7831115c4c984a0cf15c",
+            "sha256": "df8b22933608c82e4b17080b07d302e610de32988b55e288a207f391b9bb960e"
+          },
+          "type": 0
+        },
+        {
+          "name": "樱花飘落特效.txt",
+          "size": 63858,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "970fa6e6be82e1513039fd5bc4ebbde5",
+            "sha256": "db37ff76f845089eb4e93a9c57955e5070b48eff37b6e58162996b63acc73394"
+          },
+          "type": 0
+        },
+        {
+          "name": "添加OpenSSH_v1.2(需要开启高级功能).txt",
+          "size": 7181,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "c2584a61a7818b08ebb684b307550313",
+            "sha256": "dd8e5e6525ef02bb9712ce5687b26a94d821df8189afda41d75780ffaf7c28a7"
+          },
+          "type": 0
+        },
+        {
+          "name": "点击”功能列表“标题切换按钮可见性(请放在插件最后).js",
+          "size": 4629,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "645918a7739f51d552c407e62df4911e",
+            "sha256": "74fa6745cc8880530efb36695d5a832d0bfddd7e5b0f01da0c8196670ae700c1"
+          },
+          "type": 0
+        },
+        {
+          "name": "烨霖流量卡片（需要3.0以上版本）.js",
+          "size": 5339,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "b84ed33e792999219cab2e4f98ce8ea8",
+            "sha256": "1a7d644661c2991bd25cf048a8b763936ef5ec570527e3f460f0f9b2eb1dbbab"
+          },
+          "type": 0
+        },
+        {
+          "name": "热重启(不掉电).txt",
+          "size": 869,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "e4ad3d2d233e757b08c50d78609a0669",
+            "sha256": "0a8325edb893efb15b034b36f4012ba1808dcf40870ee06778ee94151bd683a4"
+          },
+          "type": 0
+        },
+        {
+          "name": "猫猫Clash(Mihomo)插件2.4.js",
+          "size": 15801,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "484421ca0e60ed85e2941f2f201a30fb",
+            "sha256": "d071593b643dfc8f5d6d0ca313607015a943b69583d4fd565839797b9bc03783"
+          },
+          "type": 0
+        },
+        {
+          "name": "登录后自动刷新网页.txt",
+          "size": 895,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "b3a09a6de37276b2ce81ae606b50c600",
+            "sha256": "acab62ba8a3060cdde2c4afe464d6a837fb1cfd40e8813c1d54a7aff254e832e"
+          },
+          "type": 0
+        },
+        {
+          "name": "百度一下1.2.js",
+          "size": 7769,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "7dfe5b37063c158d13ab9fac4eccf2f3",
+            "sha256": "3d696510a44507937a6ab2aca91078a067ed2a176cfaa063c941386ee96333f7"
+          },
+          "type": 0
+        },
+        {
+          "name": "直供电模式开关.txt",
+          "size": 2650,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "ff82b209b4baba7492ca0701a847d439",
+            "sha256": "7393a35943d92f267d264b52729557a25ef4235cd0e71a2cf94b83707557dc3f"
+          },
+          "type": 0
+        },
+        {
+          "name": "神秘的插件1.2.js",
+          "size": 17091,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "3484962ba35961ef7b4ef3438fb72073",
+            "sha256": "02247f20ef31b7bea2ff94906a77d1d0e37574a0c3bf035188208ee4f1c8565c"
+          },
+          "type": 0
+        },
+        {
+          "name": "禁用系统更新（需要启用高级功能）.txt",
+          "size": 1509,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "24182cd7d0fb3ded35909e87956d1b03",
+            "sha256": "222631d20d69fe7250dcc3345f3025d65b7714af56b26bbdcfd3de78affa8123"
+          },
+          "type": 0
+        },
+        {
+          "name": "网易云播放器插件(记得划到文本最底部更改歌单号).txt",
+          "size": 76006,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "65e2403ea0894f154686a23112f0edea",
+            "sha256": "03b56ae7d5543338d3c1e1ff7a4d139f93ae428f29e1209de5307120d05a4368"
+          },
+          "type": 0
+        },
+        {
+          "name": "网络一键加速（3M一次性去限速,其他机型勿装）.txt",
+          "size": 1071,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "19ec763451766d57583c7c31591521ca",
+            "sha256": "620c46d9a6f8e866ff522687138f24a4f31ce7a0c5e14f0a8902787c1ad3a3d3"
+          },
+          "type": 0
+        },
+        {
+          "name": "网络质量检测-机内代理版.txt",
+          "size": 21863,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "d6217d62f7a30c322f587e4ddef2c440",
+            "sha256": "cb1c7c034324f9c91dc03d1baebc1b19cc46bf958e31e631f8b62cbbb7113593"
+          },
+          "type": 0
+        },
+        {
+          "name": "网络质量检测ping插件.js",
+          "size": 21326,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "c43e9c2635c242915c7210345ee79cf4",
+            "sha256": "1a4b97626f3350a1521c7225fc482585a8fc44a0a7519c717a3f87b4ca40907e"
+          },
+          "type": 0
+        },
+        {
+          "name": "网络限速器.txt",
+          "size": 9043,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "3b38eb9742b9845b084f7d6b2fc89fe2",
+            "sha256": "6078e956238a6c2c736a90afbd68262ad3007b3803d9e3d86521b904e5cffa5d"
+          },
+          "type": 0
+        },
+        {
+          "name": "自定义hosts.js",
+          "size": 6038,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "8f18244e13d6b89de26b59216a75f3ff",
+            "sha256": "e627912048c9f2a9ef491b6020f3619ac078343d56ed9b3f54ecd2a3974a6844"
+          },
+          "type": 0
+        },
+        {
+          "name": "自定义ping.txt",
+          "size": 7338,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "0746a100276d2a25ced650e28d3c6d74",
+            "sha256": "e59cb7feff6c7ffc395b3fc50b6edb8aab6096df3dff7f13d6f9fb73c7698c54"
+          },
+          "type": 0
+        },
+        {
+          "name": "自定义头部之添加自定义网站.txt",
+          "size": 871,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "860ce584ee4ddd38dac07d3e8d8de0a5",
+            "sha256": "dc2d5f8f001b4b5f6f03759e06d2e0378f92e680d1a1a07877a5f43ae5a774d3"
+          },
+          "type": 0
+        },
+        {
+          "name": "自定义字母卡.txt",
+          "size": 6258,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "388d7340fdc7f695270ada8fce61c2f0",
+            "sha256": "6b7f994d83edb73e3e54aad12819b114c548cb44e2657e2d422e5d33aae3edab"
+          },
+          "type": 0
+        },
+        {
+          "name": "自定义快捷AT指令.txt",
+          "size": 469,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "0f1b7e90d500636ac5f899de8be88b06",
+            "sha256": "20f339885d0d450a3db4359c8417ae08fe29f195156a327cb6106785b663d66a"
+          },
+          "type": 0
+        },
+        {
+          "name": "锁频段自动切网.txt",
+          "size": 1964,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "4808a3742653caa5ab6c8d483763b508",
+            "sha256": "5a0bd99f6b22e753b678023956a8bd514677c76e6a2c5fea81f4a3beb6c9c17b"
+          },
+          "type": 0
+        },
+        {
+          "name": "隐藏ufi-tools更新提示.txt",
+          "size": 201,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "2647a3db200f6ffd78667ab29485487a",
+            "sha256": "30b8c664f1f4f337dde47891534c12c376da22567f2b1a17509fc6337a1bc4d0"
+          },
+          "type": 0
+        },
+        {
+          "name": "隐藏文件共享开关.txt",
+          "size": 92,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "93a72bee97b0c35c3ed9136e71d0414c",
+            "sha256": "f6c4d98f4e75791670ae518beff07e6b3de9d152d678d778e9870eca1c3cfce0"
+          },
+          "type": 0
+        },
+        {
+          "name": "青龙面板1.1.js",
+          "size": 11911,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "d9c56c724641154f78e3d4237c9ec29e",
+            "sha256": "b53b8464e1eb3d55ab2711e90e7df185b67c0b141b8840f212af2e09eb8fa1cb"
+          },
+          "type": 0
+        },
+        {
+          "name": "飞行模式开关(慎用).txt",
+          "size": 2414,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "6d7202fd285c7af99292fc7176e7e5de",
+            "sha256": "5cd12fe170c2eb86bbb621fa4cfe3e99db7e0aae3899c0b0035af5a0a0bb6fc5"
+          },
+          "type": 0
+        },
+        {
+          "name": "首页插件移动到状态区后(请将插件顺序置顶).txt",
+          "size": 434,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "20c6f862549144e634c481dc161deb51",
+            "sha256": "ad43f651f0b5c934fc5ecd920272bc8f759208c1d3c110776c08c27e9835d325"
+          },
+          "type": 0
+        },
+        {
+          "name": "首页状态板块毛玻璃.txt",
+          "size": 161,
+          "is_dir": false,
+          "modified": "2025-08-09T15:30:58+08:00",
+          "hash_info": {
+            "md5": "b9279832e253c1f31faf71210931b01a",
+            "sha256": "eb33564cf5be75ae4d04b752388efb1fd9ba194ead7eba3d5e47960d8220e26c"
+          },
+          "type": 0
+        }
+      ],
+      "total": 83,
+      "readme": "",
+      "write": false
+    }
+  }
+}
